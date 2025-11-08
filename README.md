@@ -1,4 +1,4 @@
-# 🎮 SteamCharts Data Analysis (MySQL)
+# 🎮 SteamCharts Data Analysis (MySQL) <img src="https://github.com/user-attachments/assets/69136b29-fe5f-41eb-bdb6-263fe2378b2a" width="40px">
 
 ## 📘 Project Overview
 This project explores player activity trends and performance metrics for games on Steam using the **SteamCharts dataset**.
@@ -13,7 +13,10 @@ Using **MySQL**, I cleaned, structured, and analyzed the dataset to uncover insi
 - Summarize trends in player growth and engagement
 
 ---
+## Code used💻
+[![My Skills](https://skillicons.dev/icons?i=mysql,vscode)](https://skillicons.dev)
 
+---
 ## 🗄️ Database Setup
 
 **Database Name:** `steamcharts_db`  
