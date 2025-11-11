@@ -50,8 +50,7 @@ IGNORE 1 ROWS
 ```
 
 ---
-
-## 🧠 Key SQL Queries
+## 🧠 Queries used
 
 ### 🔹 1. Top 10 Games by Average Players
 ```sql
