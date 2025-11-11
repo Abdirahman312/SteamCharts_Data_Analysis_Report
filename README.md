@@ -140,7 +140,10 @@ SteamCharts-Data-Analysis-MySQL/
 - Automate monthly updates using scheduled SQL jobs
 
 ---
+📫 Connect with me on:  
+- 💼 **LinkedIn:** [linkedin.com/in/abdirahman-ahmed-b7841a343](https://www.linkedin.com/in/abdirahman-ahmed-b7841a343)  
+- 📧 **Email:** [abdirahmanahmed2728@email.com](mailto:abdirahmanahmed2728@email.com)  
 
-## 👨‍💻 Author
-**Abdirahman [@Abdirahman312](https://github.com/Abdirahman312)**  
-_Data Analyst | SQL • Power BI • Python_
+---
+⭐ **Author:** _Abdirahman Ahmed_  
+🗓️ **Year:** 2025
