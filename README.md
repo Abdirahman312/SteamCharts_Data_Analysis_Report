@@ -13,7 +13,7 @@ Using **MySQL**, I cleaned, structured, and analyzed the dataset to uncover insi
 - Summarize trends in player growth and engagement
 
 ---
-## Code used💻
+## Tools used💻
 [![My Skills](https://skillicons.dev/icons?i=mysql,vscode)](https://skillicons.dev)
 
 ---
